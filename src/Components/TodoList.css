@@ -1,0 +1,16 @@
+.list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.list-components {
+  display: flex;
+}
+
+.line {
+  text-decoration: line-through;
+}
+
+.close {
+  cursor: pointer;
+}
